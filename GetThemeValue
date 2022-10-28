@@ -1,4 +1,5 @@
 ```
+
 //获取主题色
   private int getColorPrimary(){
         TypedValue typedValue = new TypedValue();
